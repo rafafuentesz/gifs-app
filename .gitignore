@@ -25,7 +25,7 @@ yarn-error.log
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
-!.vscode/extensions.json
+!.vscode/extsions.json
 .history/*
 
 # Miscellaneous
@@ -40,5 +40,3 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
-src/environments/environment.ts
-src/environments/environment.development.ts
