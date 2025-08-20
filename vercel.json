@@ -1,0 +1,10 @@
+{
+  "builds": [
+    { "src": "package.json", "use": "@vercel/static-build" }
+  ],
+  "env": {
+    "GIPHY_API_KEY": "@giphyApiKey",
+    "GIPHY_URL":"@giphyUrl"
+
+  }
+}
